@@ -43,7 +43,7 @@ public class UserController {
     public String logOff(Model model) {
         return "home";
     }
-
+// todo implements OthersControllers
 
 }
 
